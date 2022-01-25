@@ -7,7 +7,8 @@ I consider myself a smart worker, and a collaborative team player. Passionately 
 
 Would love to talk to you about:
 
-![image](https://user-images.githubusercontent.com/98100799/150970854-2fc72fd8-4c05-430f-b7f6-29bfd8bf1808.png)![image](https://user-images.githubusercontent.com/98100799/150980623-c92689c7-f4ce-4921-9bd0-c5bc8646c5e0.png)![image](https://user-images.githubusercontent.com/98100799/150980762-a7328a33-46fc-49a9-8e70-101279f78595.png)![image](https://user-images.githubusercontent.com/98100799/150980881-59349e2c-e684-4531-a686-502c471e86d4.png)
+![image](https://user-images.githubusercontent.com/98100799/150981483-84875858-5890-4bcf-a984-93768f2e7623.png)![img_cpp](https://user-images.githubusercontent.com/98100799/150982400-5bbb437e-f3f0-4b9e-ab54-1f1b4de80199.png)![img_c](https://user-images.githubusercontent.com/98100799/150983007-9b9ae881-d476-4b4c-8046-38f5121eab74.png)![img_flask](https://user-images.githubusercontent.com/98100799/150982006-b88ec5d8-16cb-436c-975d-acd431a0fe23.png)
+
 
 
 
