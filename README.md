@@ -1,4 +1,4 @@
-Hi👋, I am Shivam
+###Hi👋, I am Shivam
 
 I am an undergrad student learning about Information Technology, a developer-in-making you could say🤪. Trying to make my way around this crazy mess, I have made my peace with a few different languages, Python, C and C++, being some of them. One of my favorite friends so far in this adventure is Python; feels "great" with him.
 
