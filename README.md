@@ -1,6 +1,6 @@
 <h2 align = "center">
-Hi<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">👋, I am Shivam
-<h2/>
+Hi<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">, I am Shivam
+</h2>
 
 I am an undergrad student learning about Information Technology, a developer-in-making you could say🤪. Trying to make my way around this crazy mess, I have made my peace with a few different languages, Python, C and C++, being some of them. One of my favorite friends so far in this adventure is Python; feels "great" with him.
 
