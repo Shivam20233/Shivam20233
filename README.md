@@ -9,6 +9,9 @@ I consider myself a smart worker, and a collaborative team player. Passionately 
 Would love to talk to you about:
 
 ![img_python](https://user-images.githubusercontent.com/98100799/150983530-724766d9-e424-450c-98c4-ff1db69af945.png)![img_cpp](https://user-images.githubusercontent.com/98100799/150982400-5bbb437e-f3f0-4b9e-ab54-1f1b4de80199.png)![img_c](https://user-images.githubusercontent.com/98100799/150983007-9b9ae881-d476-4b4c-8046-38f5121eab74.png)![img_flask](https://user-images.githubusercontent.com/98100799/150982006-b88ec5d8-16cb-436c-975d-acd431a0fe23.png)
+<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+<img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> 
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
 
 
 
